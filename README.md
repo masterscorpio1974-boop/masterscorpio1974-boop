@@ -4,7 +4,7 @@ Independent developer focused on local, offline, and privacy-first solutions, fr
 
 ---
 
-## 🛠️ My Core Project: Real-Time Telemetry for the IAs (RTTC)
+## 🛠️ My Core Project: Real-Time Telemetry -Channel for the IAs (RTTC)
 
 An independent, open-source conceptual architecture designed to bridge the critical disconnect between runtime AI security barriers and engineering development teams.
 
